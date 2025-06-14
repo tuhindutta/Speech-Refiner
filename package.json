@@ -1,0 +1,23 @@
+{
+  "name": "speech-refiner",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^29.4.6"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuhindutta/Speech-Refiner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuhindutta/Speech-Refiner/issues"
+  },
+  "homepage": "https://github.com/tuhindutta/Speech-Refiner#readme"
+}
