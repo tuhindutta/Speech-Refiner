@@ -3,7 +3,9 @@
 ## 📌 Overview
 Speech Refiner is an Electron-based desktop application that allows users to record their voice or upload `.wav` audio files, and refine the tone of speech using a polite transformation API (hosted separately). The application is built using modern web technologies and packaged for desktop use via Electron.
 
-## Frontend
+## 🛠️ [Backend](https://tuhindutta.github.io/Politeness-Engine-API-Backend/)
+
+## 🖥️ Frontend
   - ### 🚀 Features
     - 🎤 In-App Audio Recording via microphone (saved in proper `.wav` format)
     - 📁 File Upload option for `.wav` files
@@ -52,8 +54,6 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
     - No sensitive data is stored or shared.
     - Content Security Policy (CSP) is not enforced to preserve dev flexibility.
     - The `.exe` is not recommended for public distribution with embedded API keys.
-
-
 
 ## 📄 Troubleshooting Audio Recording & CSP Integration in Speech Refiner
 1. ✅ Local API vs Hosted API Issues
