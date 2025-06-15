@@ -1,5 +1,7 @@
 # 🎙️ Speech-Refiner
 
+![image](https://github.com/user-attachments/assets/c72ef8a5-4642-4970-bb83-d7e2131fb9d9)
+
 ## 📌 Overview
 Speech Refiner is an Electron-based desktop application that allows users to record their voice or upload `.wav` audio files, and refine the tone of speech using a polite transformation API (hosted separately). The application is built using modern web technologies and packaged for desktop use via Electron.
 
