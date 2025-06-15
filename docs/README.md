@@ -94,7 +94,7 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
      <script src="recorder.js"></script>
      ```
 
-> ##### `recorder.js` is downloaded from [here](https://raw.githubusercontent.com/sophister/recorderjs-ex/master/dist/recorder.js).
+  > ##### `recorder.js` is downloaded from [here](https://raw.githubusercontent.com/sophister/recorderjs-ex/master/dist/recorder.js).
 
 5. 🛡️ Electron Warning
    - Message:
