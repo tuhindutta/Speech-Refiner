@@ -128,3 +128,6 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
 - Set a strict and secure CSP header.
 - Remove unsafe-inline and unsafe-eval.
 - Validate microphone permissions and backend headers for production use.
+
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes. For more details and updates, visit the [GitHub Repository](https://github.com/tuhindutta/Speech-Refiner).
