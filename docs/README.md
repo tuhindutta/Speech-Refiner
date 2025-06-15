@@ -94,8 +94,6 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
      <script src="recorder.js"></script>
      ```
 
-  > ##### `recorder.js` is downloaded from [here](https://raw.githubusercontent.com/sophister/recorderjs-ex/master/dist/recorder.js).
-
 5. 🛡️ Electron Warning
    - Message:
      ```console
@@ -124,6 +122,7 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
          - Keep .exe private.
          - Share code with API placeholder.
          - Let users build locally and request API key if needed.
+> ##### `recorder.js` is downloaded from [here](https://raw.githubusercontent.com/sophister/recorderjs-ex/master/dist/recorder.js).
 
 ## 🧭 Recommendations for Future Deployment
 - Extract all inline scripts into external files.
