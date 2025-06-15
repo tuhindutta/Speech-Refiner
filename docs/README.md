@@ -103,7 +103,7 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
      ```
    - Strict CSP Attempt
      ```html
-     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src http://192.168.1.5:5000;">
+     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; connect-src http://192.168.x.x:5000;">
      ```
      - Issue:
        - Inline scripts blocked.
