@@ -122,6 +122,7 @@ Speech Refiner is an Electron-based desktop application that allows users to rec
          - Keep .exe private.
          - Share code with API placeholder.
          - Let users build locally and request API key if needed.
+
 > ##### `recorder.js` is downloaded from [here](https://raw.githubusercontent.com/sophister/recorderjs-ex/master/dist/recorder.js).
 
 ## 🧭 Recommendations for Future Deployment
